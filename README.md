@@ -62,7 +62,7 @@ con la información del docente del módulo:
 ## Colaboradores
 
 - Poner a [github.com/maximofernandezriera](http://github.com/maximofernandezriera)
-como colaborador del repositorio **masterpidgey-simulacion**
+como colaborador del repositorio **masterpidgey-examen**
 
 # Contribución guiada a un proyecto (Simulación examen parte 2)
 
