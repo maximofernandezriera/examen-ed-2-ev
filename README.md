@@ -38,7 +38,7 @@ la carpeta sean ignorados por git.
 
 - Añadir fichero **1.txt** al repositorio local.
 
-# Visualizar los commits realizados hasta el momento
+# Visualizar los commits realizados hasta el momento (el historial).
 
 ## Crear el tag v0.1
 
@@ -48,7 +48,7 @@ la carpeta sean ignorados por git.
 
 - Subir los cambios al repositorio remoto.
 
-# Visualizar de nuevo los commits realizados hasta el momento
+# Visualizar de nuevo los commits realizados hasta el momento (el historial).
 
 ## Crear una tabla
 
